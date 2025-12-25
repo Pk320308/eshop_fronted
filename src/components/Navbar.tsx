@@ -35,7 +35,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors">
-              EShop
+              E-Shop
             </Link>
           </div>
 
